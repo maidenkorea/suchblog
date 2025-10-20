@@ -9,6 +9,8 @@ on:
 jobs:
   build-deploy:
     runs-on: ubuntu-24.04
+    permissions:
+      contents: write
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
@@ -33,4 +35,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./public
+
 

@@ -10,26 +10,93 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-#[[main]]
-#  name = "Blog"
-#  pageRef = "posts"
-#  weight = 10
+[[main]]
+  name = "Drivers"
+  pageRef = "drivers"
+  weight = 10
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+[[main]]
+  name = "Chad"
+  parent = "Drivers"
+  pageRef = "posts"
+  weight = 10
 
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "Colby"
+  parent = "Drivers"
+  pageRef = "posts"
+  weight = 10
 
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "Harrison"
+  parent = "Drivers"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Hunter"
+  parent = "Drivers"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Maddox"
+  parent = "Drivers"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "White Max"
+  parent = "Drivers"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Asian Max"
+  parent = "Drivers"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Nathan"
+  parent = "Drivers"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Pedro"
+  parent = "Drivers"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Zach"
+  parent = "Drivers"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "Posts"
+  pageRef = "posts"
+  weight = 20
+
+[[main]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 30
+
+[[main]]
+  pre = "youtube"
+  name = "Youtube"
+  url = "https://www.youtube.com/@suchracing"
+  weight = 200
+
+[[main]]
+  pre = "instagram"
+  name = "Instagram"
+  url = "https://www.instagram.com/such.racing"
+  weight = 200
+
 
 #[[subnavigation]]
 #  name = "An interesting topic"
@@ -47,12 +114,6 @@
 #  pageRef = "categories"
 #  weight = 20
 
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
-
-
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
@@ -64,6 +125,6 @@
 #   weight = 10
 
 # [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
+#   name = "Posts"
+#   pageRef = "posts"
 #   weight = 20

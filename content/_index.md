@@ -2,5 +2,9 @@
 title: Landing Page
 description: Homepage content.
 ---
-<p align="center"><img src="./img/such.png" alt="such logo" width="400"/></p>
-<h1>Racing, Together.</h1>
+<script src="/assets/js/custom.js"></script>
+
+<div align="center">
+<img src="./img/such.png" width="400"/>
+<h1 style="font-family:'Times New Roman Bold'">racing, together.</h1>
+</div>

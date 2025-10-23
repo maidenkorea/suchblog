@@ -15,65 +15,65 @@
   pageRef = "drivers"
   weight = 10
 
-[[main]]
-  name = "Chad"
-  parent = "Drivers"
-  pageRef = "posts"
-  weight = 10
+#[[main]]
+#  name = "Chad"
+#  parent = "Drivers"
+#  pageRef = "posts"
+#  weight = 10
 
-[[main]]
-  name = "Colby"
-  parent = "Drivers"
-  pageRef = "posts"
-  weight = 10
+#[[main]]
+#  name = "Colby"
+#  parent = "Drivers"
+#  pageRef = "posts"
+#  weight = 10
 
-[[main]]
-  name = "Harrison"
-  parent = "Drivers"
-  pageRef = "posts"
-  weight = 10
+#[[main]]
+#  name = "Harrison"
+#  parent = "Drivers"
+#  pageRef = "posts"
+#  weight = 10
 
 [[main]]
   name = "Hunter"
   parent = "Drivers"
-  pageRef = "posts"
+  pageRef = "drivers/hunter"
   weight = 10
 
-[[main]]
-  name = "Maddox"
-  parent = "Drivers"
-  pageRef = "posts"
-  weight = 10
+#[[main]]
+#  name = "Maddox"
+#  parent = "Drivers"
+#  pageRef = "posts"
+#  weight = 10
 
-[[main]]
-  name = "White Max"
-  parent = "Drivers"
-  pageRef = "posts"
-  weight = 10
+#[[main]]
+#  name = "White Max"
+#  parent = "Drivers"
+#  pageRef = "posts"
+#  weight = 10
 
-[[main]]
-  name = "Asian Max"
-  parent = "Drivers"
-  pageRef = "posts"
-  weight = 10
+#[[main]]
+#  name = "Asian Max"
+#  parent = "Drivers"
+#  pageRef = "posts"
+#  weight = 10
 
-[[main]]
-  name = "Nathan"
-  parent = "Drivers"
-  pageRef = "posts"
-  weight = 10
+#[[main]]
+#  name = "Nathan"
+#  parent = "Drivers"
+#  pageRef = "posts"
+#  weight = 10
 
-[[main]]
-  name = "Pedro"
-  parent = "Drivers"
-  pageRef = "posts"
-  weight = 10
+#[[main]]
+#  name = "Pedro"
+#  parent = "Drivers"
+#  pageRef = "posts"
+#  weight = 10
 
-[[main]]
-  name = "Zach"
-  parent = "Drivers"
-  pageRef = "posts"
-  weight = 10
+#[[main]]
+#  name = "Zach"
+#  parent = "Drivers"
+#  pageRef = "posts"
+#  weight = 10
 
 [[main]]
   name = "Posts"

@@ -4,7 +4,7 @@ tags: ["Driver"]
 ---
 
 
-Our resident JZ driver, Hunter drives his Toyota-powered go kart like he's playing Assetto Corsa. He's a lover of doors and a hater of SR20. His 240sx was never blue, because "Blue is for the gays," and if you try to bully him back in chase you'll end up with a smashed in rear quarter (and he'll walk away scott-free). 
+Our resident JZ enjoyer, Hunter drives his Toyota-powered go kart like he's playing Assetto Corsa. He's a lover of doors and a hater of SR20. His 240sx was never blue, because "Blue is for the gays," and if you try to bully him back in chase you'll end up with a smashed in rear quarter (and he'll walk away scott-free). 
 
 A Texas native, Hunter plays his part well in keeping the spirit of exciting grassroots motorsports alive. 
 <p align="center"><img src="img0.jpg" alt="such logo" width="400"/></p>

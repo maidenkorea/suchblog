@@ -1,6 +1,6 @@
 ---
 title: "Colby"
-tags: ["Driver"]
+tags: ["Drivers"]
 showDriver: true
 drivers: 
     - "colby"

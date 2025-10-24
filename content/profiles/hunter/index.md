@@ -1,6 +1,6 @@
 ---
 title: "Hunter"
-tags: ["Driver"]
+tags: ["Drivers"]
 showDriver: true
 drivers: 
     - "hunter"

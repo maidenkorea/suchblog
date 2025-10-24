@@ -12,7 +12,7 @@
 
 [[main]]
   name = "Drivers"
-  pageRef = "drivers"
+  pageRef = "profiles"
   weight = 10
 
 #[[main]]
@@ -36,7 +36,7 @@
 [[main]]
   name = "Hunter"
   parent = "Drivers"
-  pageRef = "drivers/hunter"
+  pageRef = "profiles/hunter"
   weight = 10
 
 #[[main]]

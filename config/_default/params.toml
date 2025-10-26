@@ -8,6 +8,7 @@
 colorScheme = "fire"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
+customCSS = ["css/custom.css"]
 
 enableA11y = false
 enableSearch = true

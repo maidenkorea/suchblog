@@ -9,5 +9,34 @@ drivers:
 Our resident JZ enjoyer, Hunter drives his Toyota-powered go kart like he's playing Assetto Corsa. He's a lover of doors and a hater of SR20. His 240sx was never blue, because "Blue is for the gays."
 
 A Texas native, Hunter plays his part well in keeping the spirit of exciting grassroots motorsports alive. 
-<p align="center"><img src="img0.jpg" width="400"/></p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+{{< figure
+    src="img0.jpg"
+    caption="Final Bout Special Stage South 2025"
+    >}}
+
+## *Machine Check*
+**1989 Nissan 240sx Hatch**
+
+**Engine:** Unopened 1jz-gte vvti, stock turbo, Tial wastegate, V-mount intercooler/radiator, tuned on a Link Monsoon4x.
+
+**Drivetrain:** R154 with a spec clutch, welded 3.9 diff, Corsatec z33 axle conversion.
+
+**Footwork:** BC Racing coilovers, ISR Pro tension rods, 30mm extended lower control arms, Corsatec cut knuckles, Parts Shop Max Limit Break rear knuckles and arms, Parts Shop Max z32 front and rear brakes with dual rear calipers, solid subframe bushings.
+
+**Aero:** Carmodify Wonder Glare full kit with 50mm front and rear GT fenders.
+
+**Wheels:** Weds Cerberus 1
+- **F -** 17x9.5+5 245/40
+- **R -** 17x10.5+0 255/45
+
+**Interior:** S14 dash, Sparco circuit 2 driver seat, Sparco sprint passenger seat, Racetech dash.
+
+{{< gallery >}}
+  <img src="img1.jpg" class="grid-w50 md:grid-w33"/>
+  <img src="img2.jpg" class="grid-w50 md:grid-w33"/>
+  <img src="img3.jpg" class="grid-w50 md:grid-w33"/>
+  <img src="img4.jpg" class="grid-w50 md:grid-w33"/>
+  <img src="img5.jpg" class="grid-w50 md:grid-w33"/>
+  <img src="img6.jpg" class="grid-w50 md:grid-w33"/>
+  <img src="img7.jpg" class="grid-w50 md:grid-w33"/>
+{{< /gallery >}}

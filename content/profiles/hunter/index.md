@@ -26,8 +26,8 @@ A Texas native, Hunter plays his part well in keeping the spirit of exciting gra
 **Aero:** Carmodify Wonder Glare full kit with 50mm front and rear GT fenders.
 
 **Wheels:** Weds Cerberus 1
-- **F -** 17x9.5+5 245/40
-- **R -** 17x10.5+0 255/45
+- **F** - 17x9.5+5 245/40
+- **R** - 17x10.5+0 255/45
 
 **Interior:** S14 dash, Sparco circuit 2 driver seat, Sparco sprint passenger seat, Racetech dash.
 

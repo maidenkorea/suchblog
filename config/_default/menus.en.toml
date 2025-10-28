@@ -57,11 +57,11 @@
 #  pageRef = "posts"
 #  weight = 10
 
-#[[main]]
-#  name = "Nathan"
-#  parent = "Drivers"
-#  pageRef = "posts"
-#  weight = 10
+[[main]]
+  name = "Nathan"
+  parent = "Drivers"
+  pageRef = "profiles/nathan"
+  weight = 10
 
 #[[main]]
 #  name = "Pedro"

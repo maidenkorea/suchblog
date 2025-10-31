@@ -69,11 +69,11 @@
 #  pageRef = "posts"
 #  weight = 10
 
-#[[main]]
-#  name = "Zach"
-#  parent = "Drivers"
-#  pageRef = "posts"
-#  weight = 10
+[[main]]
+  name = "Zach"
+  parent = "Drivers"
+  pageRef = "profiles/zach"
+  weight = 10
 
 [[main]]
   name = "Posts"
@@ -87,13 +87,13 @@
 
 [[main]]
   pre = "youtube"
-  name = "Youtube"
+  identifier = "Youtube"
   url = "https://www.youtube.com/@suchracing"
   weight = 200
 
 [[main]]
   pre = "instagram"
-  name = "Instagram"
+  identifier = "Instagram​"
   url = "https://www.instagram.com/such.racing"
   weight = 200
 
@@ -119,12 +119,12 @@
 # the copyright notice. Configure as per the main menu above.
 
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+[[footer]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 10
 
-# [[footer]]
-#   name = "Posts"
-#   pageRef = "posts"
-#   weight = 20
+[[footer]]
+  name = "Posts"
+  pageRef = "posts"
+  weight = 20

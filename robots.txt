@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://maidenkorea.github.io/suchblog/sitemap.xml
+Sitemap: https://such-racing.co/sitemap.xml

@@ -54,4 +54,5 @@ Internal wise my engine is bone stock, I’ve pulled it down and done rings and 
   <img src="img9.jpg" class="grid-w50 md:grid-w33"/>
   <img src="img10.jpg" class="grid-w50 md:grid-w33"/>
   <img src="img11.jpg" class="grid-w50 md:grid-w33"/>
+  <img src="img12.jpg" class="grid-w50 md:grid-w33"/>
 {{< /gallery >}}

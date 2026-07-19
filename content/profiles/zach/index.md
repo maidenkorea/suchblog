@@ -24,7 +24,7 @@ I’m a huge fan of the simple OE+ look, WolfPackYuma’s car was always a templ
 
 {{< figure
     src="img0.jpg"
-    caption="Photo by Harrison Ormes at Final Bout Special Stage South 2025"
+    caption="Photo by Aaron Alerre (@kuyafiied) at Final Bout Special Stage South 2025"
     >}}
 
 ## *Machine Check*
@@ -49,4 +49,9 @@ Internal wise my engine is bone stock, I’ve pulled it down and done rings and 
   <img src="img4.jpg" class="grid-w50 md:grid-w33"/>
   <img src="img5.jpg" class="grid-w50 md:grid-w33"/>
   <img src="img6.jpg" class="grid-w50 md:grid-w33"/>
+  <img src="img7.jpg" class="grid-w50 md:grid-w33"/>
+  <img src="img8.jpg" class="grid-w50 md:grid-w33"/>
+  <img src="img9.jpg" class="grid-w50 md:grid-w33"/>
+  <img src="img10.jpg" class="grid-w50 md:grid-w33"/>
+  <img src="img11.jpg" class="grid-w50 md:grid-w33"/>
 {{< /gallery >}}

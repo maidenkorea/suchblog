@@ -6,9 +6,10 @@ drivers:
     - "hunter"
 ---
 
-Our resident JZ enjoyer, Hunter drives his Toyota-powered go kart like he's playing Assetto Corsa. He's a lover of doors and a hater of SR20. His 240sx was never blue, because "Blue is for the gays."
+{{< lead >}} Bro sure talks a lot of shit for being in pissing distance. {{< /lead >}}
 
-A Texas native, Hunter plays his part well in keeping the spirit of exciting grassroots motorsports alive. 
+
+Hunter plays his part well in keeping the spirit of exciting grassroots motorsports alive. He's always got a smile on his face and is great to have around. He's a cool driver and an even cooler dude, if you can get over the fact that he thinks JZs belong in s-chassis. 
 {{< figure
     src="img0.jpg"
     caption="Final Bout Special Stage South 2025"
